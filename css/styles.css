@@ -1,0 +1,7 @@
+.turtle, .snake, .insects, .nothing {
+  display: none;
+}
+
+img {
+  height: 100px;
+}
